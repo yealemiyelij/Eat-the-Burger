@@ -1,0 +1,23 @@
+/*Wondu Mamo, https://github.com/yealemiyelij |1 author(Wondu Mamo)*/
+
+* {
+    text-align: center;
+}
+
+body {
+    background-color: #9a8e65;
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+
+.jumbotron {
+    background-color: #E8B92D;
+    position: center
+}
+
+.btn btn-default:hover {
+    transform: skew(-10deg);
+
+}

@@ -1,0 +1,35 @@
+{
+  "name": "eat-the-burger",
+  "version": "1.0.0",
+  "description": "the app is done with mysql, express, handlebars and homemade orm",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yealemiyelij/Eat-the-Burger.git"
+  },
+  "keywords": [
+    "node",
+    "sql",
+    "hadlebars",
+    "orm",
+    "express",
+    "bodyparser",
+    "and",
+    "method",
+    "override"
+  ],
+  "author": "Wondu Mamo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yealemiyelij/Eat-the-Burger/issues"
+  },
+  "homepage": "https://github.com/yealemiyelij/Eat-the-Burger#readme",
+  "dependencies": {
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10"
+  }
+}
